@@ -1,0 +1,20 @@
+{
+	"data": [
+
+		{
+			"name": "NCR(Dwarka)"
+		}, {
+			"name": "NCR(Noida)"
+		}, {
+			"name": "Pune"
+		}, {
+			"name": "Mumbai (Airoli)"
+		}, {
+			"name": "Mumbai (Worli)"
+		},
+		{
+			"name": "Hyderabad"
+		}
+]
+	
+}
